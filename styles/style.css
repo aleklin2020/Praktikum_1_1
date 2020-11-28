@@ -77,7 +77,7 @@
 
 .header__subtitle {
     position: absolute;
-    font-family: norm;
+    font-weight: normal;
     line-height: 25px;
     font-size: 18px;
     width: 388px;
@@ -140,7 +140,7 @@
 
 .two-columns__span-accent {
   line-height: 34px;
-  font-weight: 24px;
+  font-size: 24px;
   font-weight: bold;
 }
 
@@ -153,7 +153,7 @@
 margin:100px auto 20px auto;
 line-height: 1.15;
 font-size: 60px;
-font-family: bold;
+font-weight: bold;
 }
 
 .section-subtitle {
@@ -162,7 +162,7 @@ font-family: bold;
   margin: auto;
   line-height: 34px;
   font-size:24px;
-  font-family: normal;
+  font-weight: normal;
 }
 
 .table {
@@ -184,14 +184,14 @@ font-family: bold;
   margin-bottom: 20px;
   line-height: 1.15;
   font-size: 24px;
-  font-family: bold;
+  font-weight: bold;
 
 }
 
 .table_text {
   line-height: 1.2;
   font-size: 18px;
-  font-family: normal;
+  font-weight: normal;
 }
 
 
@@ -228,7 +228,7 @@ font-family: bold;
   width: 648px;
   line-height: 1.15;
   font-size: 120px;
-  font-family: bold;
+  font-weight: bold;
   text-align: center;
   z-index: 2;
 }
@@ -239,7 +239,7 @@ font-family: bold;
  top: 50%;
  line-height: 51px;
  font-size: 36px;
- font-family: normal;
+ font-weight: normal;
  text-decoration: none;
  color: #2f80ed;
  
@@ -283,7 +283,7 @@ font-family: bold;
 .section-title_theme_dark {
   line-height: 1.15;
   font-size: 60px;
-  font-family: bold;
+  font-weight: bold;
   margin: 90px auto 20px auto;
   color: white;
 
@@ -292,7 +292,7 @@ font-family: bold;
 .section-subsitle_theme_dark {
   line-height: 34px;
   font-size: 24px;
-  font-family: normal;
+  font-weight: normal;
   
   color: white;
 }
@@ -300,7 +300,7 @@ font-family: bold;
 .table__heading_theme_dark {
   line-height: 1.15;
   font-size: 24px;
-  font-family: bold;
+  font-weight: bold;
   margin-bottom: 20px;
   
 }
@@ -308,7 +308,7 @@ font-family: bold;
 .table__text_theme_dark {
   line-height: 1.2;
   font-size: 18px;
-  font-family: normal;
+  font-weight: normal;
 }
 
 
@@ -373,7 +373,7 @@ font-family: bold;
 .footer__link {
   line-height: 30px;
   font-size: 18px;
-  font-family: bold;
+  font-weight: bold;
   text-decoration: none;
   color: white;
 
@@ -382,13 +382,13 @@ font-family: bold;
 .footer__author {
   line-height: 25px;
   font-size: 18px;
-  font-family: normal;
+  font-weight: normal;
   color: white;
 }
 
 .footer__column-heading {
   font-size: 18px;
-  font-family: bold;
+  font-weight: bold;
   line-height: 30px;
   color: white;
 }
