@@ -13,6 +13,7 @@
 5. HTML:iframe
 6. Animation и Transform в CSS
 7. Git
+8. Вендорные префиксы
 
 ### Создана с применением:
 - HTML
