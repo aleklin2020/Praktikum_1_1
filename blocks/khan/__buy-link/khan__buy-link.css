@@ -5,6 +5,7 @@
   font-weight: normal;
   text-decoration:none;
   transition: 1s;
+  margin-left: 656px;
 }
 .khan__buy-link:hover {
 	opacity: 0.5;
